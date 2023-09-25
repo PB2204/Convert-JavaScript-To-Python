@@ -54,7 +54,7 @@ The CLI command for "Convert JavaScript To Python" is as follows:
 npm install convert-js2py
 
 # Convert a JavaScript file to Python
-js2py your-js-file.js output
+js-to-python your-js-file.js output
 ```
 
 In this command, `your-js-file.js` is the input JavaScript file, and `output` is the folder where the `output.py` file will be written.

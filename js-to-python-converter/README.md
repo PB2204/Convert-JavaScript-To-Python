@@ -53,7 +53,7 @@ If your project includes a CLI command, provide instructions on how to use it. I
 npm i convert-js2py
 
 # Convert a JavaScript file to Python
-js2py test.js output
+js-to-python test.js output
 ```
 here `test.js` is your input JavaScript file and `output` is the folder name where the `output.py` file will be written.
 
