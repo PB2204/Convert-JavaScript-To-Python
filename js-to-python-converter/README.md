@@ -43,6 +43,7 @@ const pythonCode = translateJSToPython(jsCode);
 // Print the generated Python code
 console.log(pythonCode);
 ```
+You can see the translated Python code in the terminal .
 
 ## CLI Command
 
@@ -54,6 +55,7 @@ npm i convert-js2py
 # Convert a JavaScript file to Python
 js-to-python test.js output
 ```
+here `test.js` is your input JavaScript file and `output` is the folder name where the `output.py` file will be written.
 
 ## Project Structure
 
@@ -78,23 +80,23 @@ This can't convert a complex JavaScript code into a Python code now , but we'll 
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [License Name] - see the [LICENSE](https://github.com/PB2204/Convert-JavaScript-To-Python/LICENSE) file for details.
 
 ## Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
+Contributions are welcome! Please read [CONTRIBUTING.md](https://github.com/PB2204/Convert-JavaScript-To-Python/CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## Code of Conduct
 
-Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our code of conduct.
+Please read [CODE_OF_CONDUCT.md](https://github.com/PB2204/Convert-JavaScript-To-Python/CODE_OF_CONDUCT.md) for our code of conduct.
 
 ## Learn More
 
-Visit [LEARN.md](LEARN.md) for additional resources, tutorials, and documentation related to this project.
+Visit [LEARN.md](https://github.com/PB2204/Convert-JavaScript-To-Python/LEARN.md) for additional resources, tutorials, and documentation related to this project.
 
 ## Issues
 
-If you encounter any issues, bugs, or have questions, please open an issue on the [Issues](link-to-issues) page.
+If you encounter any issues, bugs, or have questions, please open an issue on the [Issues](https://github.com/PB2204/Convert-JavaScript-To-Python/issues) page.
 
 ## Contact
 

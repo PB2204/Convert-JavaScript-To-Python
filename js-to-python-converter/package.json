@@ -1,6 +1,6 @@
 {
   "name": "convert-js2py",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert JavaScript code to Python code",
   "main": "lib/index.js",
   "bin": {
@@ -14,5 +14,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pabitra Banerjee",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PB2204/Convert-JavaScript-To-Python.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PB2204/Convert-JavaScript-To-Python/issues"
+  }
 }
