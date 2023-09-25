@@ -1,10 +1,10 @@
 {
   "name": "convert-js2py",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "description": "Convert JavaScript code to Python code",
   "main": "lib/index.js",
   "bin": {
-    "js-to-python": "bin/js-to-python.js"
+    "js2py": "bin/js-to-python.js"
   },
   "keywords": [
     "javascript",

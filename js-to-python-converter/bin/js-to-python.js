@@ -8,7 +8,7 @@ const filePath = process.argv[2];
 const outputFolder = process.argv[3];
 
 if (!filePath || !outputFolder) {
-  console.error("Usage: js-to-python <file_path> <output_folder>");
+  console.error("Usage: js2py <file_path> <output_folder>");
   process.exit(1);
 }
 
